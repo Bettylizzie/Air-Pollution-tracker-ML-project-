@@ -1,2 +1,13 @@
-matplotlib
 streamlit
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+joblib
+pytz
+folium
+streamlit-folium
+statsmodels
+scikit-learn
+scipy
