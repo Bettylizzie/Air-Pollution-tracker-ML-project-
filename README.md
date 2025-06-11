@@ -1,19 +1,19 @@
-# 🌍 AI-Powered Air Pollution Tracker
+# AI-Powered Air Pollution Tracker
 
 This project is an intelligent, interactive web-based dashboard that leverages **machine learning** to **predict and monitor air quality levels** using real-world environmental data. It supports **Sustainable Development Goal (SDG) 11: Sustainable Cities and Communities** by helping individuals, communities, and policymakers identify, understand, and respond to harmful pollution trends.
 
-## 🚀 Features
+## Features
 
-- 🌫️ Predicts Air Quality Index (AQI) using PM2.5, O3, NO2, and CO values
-- 📈 Visualizes pollution trends and spatial patterns across cities
-- 🗺️ Maps pollution intensity using heatmaps and scatter maps
-- 🚨 Alerts users about high-pollution zones
-- 🧠 Provides health advice and “what-if” pollution scenario modeling
-- 📊 Helps support data-driven decision-making for urban sustainability
+- Predicts Air Quality Index (AQI) using PM2.5, O3, NO2, and CO values
+- Visualizes pollution trends and spatial patterns across cities
+- Maps pollution intensity using heatmaps and scatter maps
+- Alerts users about high-pollution zones
+- Provides health advice and “what-if” pollution scenario modeling
+- Helps support data-driven decision-making for urban sustainability
 
 ---
 
-## 🎯 Goals
+## Goals
 
 - **Track and predict air quality** in urban and rural areas
 - **Empower communities** with accessible air pollution insights
@@ -22,7 +22,7 @@ This project is an intelligent, interactive web-based dashboard that leverages *
 
 ---
 
-## 🌟 Importance
+## Importance
 
 Air pollution is a leading environmental health risk, contributing to millions of premature deaths each year. This app:
 
@@ -32,7 +32,7 @@ Air pollution is a leading environmental health risk, contributing to millions o
 
 ---
 
-## ❗ Gaps & Opportunities
+##  Gaps & Opportunities
 
 - Currently uses simulated coordinates — could be improved with real geolocation data
 - Time-series trends are synthesized — integrating live or historical data sources like OpenAQ or NASA satellites could enhance accuracy
@@ -41,15 +41,14 @@ Air pollution is a leading environmental health risk, contributing to millions o
 
 ---
 
-## 💻 Running the App Locally
+## Running the App Locally
 
 > Make sure you have Python 3.8+ and Git installed.
 
 ### 1. Clone the Repository
-
-```bash
 git clone https://github.com/Bettylizzie/Air-Pollution-tracker-ML-project-.git
 cd Air-Pollution-tracker-ML-project-
+
 
 ### 2. Create and Activate a Virtual Environment
   # Windows
@@ -88,7 +87,7 @@ Report bugs via Issues
 
 Suggest enhancements for better performance or UI
 
-### 🌐 Related Goals
+### Related Goals
 Supports:
 
 SDG 11 – Sustainable Cities and Communities
@@ -97,10 +96,15 @@ SDG 13 – Climate Action
 
 SDG 3 – Good Health and Well-being
 
-### 👩‍💻 Developed By
+### Developed By
 Betty Njuguna - Data Scientist/AI Engineer
 AI for Climate Advocate
 GitHub: @Bettylizzie
+
+
+
+
+
 
 
 
