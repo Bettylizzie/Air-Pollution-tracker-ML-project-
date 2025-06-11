@@ -100,6 +100,10 @@ SDG 3 – Good Health and Well-being
 Betty Njuguna - Data Scientist/AI Engineer
 AI for Climate Advocate
 GitHub: @Bettylizzie
+## 🌐 Live Demo
+Try the deployed app 👉 [Click here](https://airpollution-app-bxbcpuqjuq9.streamlit.app/)
+use this dataset for testing[Uploading cleaned_air_pollution.csv…]()
+
 
 
 
